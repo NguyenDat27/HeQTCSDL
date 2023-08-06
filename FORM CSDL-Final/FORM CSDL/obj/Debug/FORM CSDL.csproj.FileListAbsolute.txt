@@ -1,0 +1,295 @@
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\bin\Debug\HanhKhach.resx
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\bin\Debug\HanhKhach.cs
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\bin\Debug\FORM CSDL.exe
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\bin\Debug\FORM CSDL.pdb
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.SuggestedBindingRedirects.cache
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.exe
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.pdb
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+D:\CSDL\Co_ban\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\bin\Debug\HanhKhach.resx
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\bin\Debug\HanhKhach.cs
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\bin\Debug\FORM CSDL.exe
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\bin\Debug\FORM CSDL.pdb
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.exe
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM CSDL.pdb
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.DatVe.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+C:\Users\Nguyen Thanh Dat\Documents\Zalo Received Files\FORM CSDL\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+E:\Downloads\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+E:\Downloads\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+E:\Downloads\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+E:\Downloads\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+E:\Downloads\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.DatVe.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+E:\Downloads\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.DatVe.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+D:\Tải xuống\PROJECT CUỐI KÌ\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.DatVe.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+E:\Downloads\PROJECT CUỐI KÌ\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Mua_Ve.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.DatVe.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Mua_Ve.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+D:\Tải xuống\Form mua ve\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Mua_Ve.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoQLNS_QLDV.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.HuyVe.resources
+C:\Users\Nguyen Thanh Dat\Downloads\UPLOAD-20220521T120019Z-001\UPLOAD\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemPhanQuyen.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Mua_Ve.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoQLNS_QLDV.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemPhanQuyen.resources
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Xem_vs_sua_inf4_KH.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.resx
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.cs
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\HanhKhach.Designer.cs
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe.config
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.exe
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\bin\Debug\FORM CSDL.pdb
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.AssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Dich_vu.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.HuyVeforHK.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.KhaNang.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.LoaiMayBay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Loc_ds_chuyen_bay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Maybay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Hanh_khach.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Lichbay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Mua_Ve.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.PhiCong.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Properties.Resources.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Quan_li.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Sl_Ve_moi_thang.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoQLNS_QLDV.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TaoTK_MK.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.ThemThongTin.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.thongke_luong_PC.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Thongke_SLMB__moiloai.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tinhtrangchuyenbay.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Tong_so_MB.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.TrangPhanQuyen.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Ve_for_admin.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemPhanQuyen.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.XemVaSuaThongTin.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.Xem_vs_sua_inf4_KH.resources
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.GenerateResource.cache
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.exe
+C:\Users\Nguyen Thanh Dat\Downloads\FORM CSDL-Final\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM CSDL.pdb
+E:\Downloads\Bao cao BS\FORM CSDL-Final\FORM CSDL\obj\Debug\FORM_CSDL.HuyVeforHK.resources
